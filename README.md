@@ -1,4 +1,4 @@
-# charity
+# Fullstack App
 homeless food charity 
 
 #Setting up the project
